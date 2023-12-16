@@ -1,0 +1,10 @@
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS MOCKUP.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS_MOCKUP.Form1.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS_MOCKUP.Properties.Resources.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS MOCKUP.csproj.GenerateResource.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS MOCKUP.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\bin\Debug\AMS MOCKUP.exe.config
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\bin\Debug\AMS MOCKUP.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\bin\Debug\AMS MOCKUP.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS MOCKUP.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\MOCKUP AMS\AMS MOCKUP\AMS MOCKUP\obj\Debug\AMS MOCKUP.pdb
