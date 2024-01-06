@@ -1,0 +1,10 @@
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR RESERVA.csproj.AssemblyReference.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR_RESERVA.Form1.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR_RESERVA.Properties.Resources.resources
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR RESERVA.csproj.GenerateResource.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR RESERVA.csproj.CoreCompileInputs.cache
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\bin\Debug\REALIZAR RESERVA.exe.config
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\bin\Debug\REALIZAR RESERVA.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\bin\Debug\REALIZAR RESERVA.pdb
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR RESERVA.exe
+C:\Users\diogo\OneDrive\Ambiente de Trabalho\REALIZAR RESERVA\REALIZAR RESERVA\REALIZAR RESERVA\obj\Debug\REALIZAR RESERVA.pdb
